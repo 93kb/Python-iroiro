@@ -6,5 +6,4 @@ https://odigo.jp/%e3%80%90python%e7%b7%b4%e7%bf%92%e5%95%8f%e9%a1%8c50%e5%95%8f%
 
 いいかも？
 https://note.nkmk.me/python-post-summary/
-
 https://note.nkmk.me/python/
