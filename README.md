@@ -6,4 +6,5 @@
 
 いいかも
 ・https://note.nkmk.me/python-post-summary/
+
 ・https://note.nkmk.me/python/
