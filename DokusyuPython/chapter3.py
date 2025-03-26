@@ -91,9 +91,35 @@ data3 = [1, 2]
 print(data1 < data2)#data1が2、data2が5で比較される、5のほうが大きいのでTrue
 print(data1 < data3)#data3が2要素しかないのでdata3が小さいとみなされる、False
 
+score = 75
+print("合格" if score >= 70 else "不合格…")
+
+score = 55
+if score >= 70:
+    print("合格")
+elif score >= 50:
+    print("おしい")
+else:
+    print("もっと頑張ろう")
+
+#短絡演算
+#同じ意味
+x = 1
+if x != 2:
+    print("実行されました")
+
+#同じ意味
+x == 2 or print("実行されました")
+
+print(True and 1)
+print(False and 2)
+print(True or 3)
+print(False or 4)
+
 #問題
 #１　i -= 2
 #２　d = decimal.Decimal('0.5')
 #３　x, y, *z = [2, 4, 6, 8, 10]
 #４　n, m = m, n
 #５　10 <= x < 50
+
