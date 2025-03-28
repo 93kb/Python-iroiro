@@ -1,3 +1,4 @@
+
 #標準ライブラリ
 import datetime
 
@@ -146,3 +147,7 @@ print('「' + msg.rstrip() + '」')
 
 msg2 = "!=====[独習Python]=====!"
 print('「' + msg2.strip("!= []") + '」')
+
+msg = "WINGSプロジェクト"
+
+print("プロ" in msg)
